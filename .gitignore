@@ -21,3 +21,4 @@ lcov.dat
 jsconfig.json
 /typings/*
 /.vscode/*
+.idea
